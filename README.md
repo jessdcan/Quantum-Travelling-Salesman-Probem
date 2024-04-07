@@ -1,3 +1,7 @@
+Authors:
+Aidan Rabinowitz-2341197
+Jess Dworcan-1924564
+
 submission.ipynb contains the main functionality of the code submission
 
 The quantum tsp code is run first, then brute force, followed by nearest neighbor, simulated annealing and simulated annealing with nearest neighbor as intial solution.
