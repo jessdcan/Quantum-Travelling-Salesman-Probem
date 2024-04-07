@@ -1,6 +1,4 @@
-Authors:
-Aidan Rabinowitz-2341197
-Jess Dworcan-1924564
+Authors: Aidan Rabinowitz-2341197, Jess Dworcan-1924564
 
 submission.ipynb contains the main functionality of the code submission
 
